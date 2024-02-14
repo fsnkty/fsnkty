@@ -1,4 +1,4 @@
-<img align="right" src="./gay.png" width="300"/>
+<img align="right" src="./gay.png" width="220"/>
 
 ### Hi there 👋
 feel free to reach out <br>
