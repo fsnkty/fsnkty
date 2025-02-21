@@ -1,4 +1,4 @@
 <img align="left" src="./pridemushienix.png" width="150"/>
 
 ### Hello 👋
-email: fsnkty@shimeji.cafe <br>
+email: fsnkty@pm.me <br>
